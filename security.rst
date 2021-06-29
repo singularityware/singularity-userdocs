@@ -51,8 +51,8 @@ beyond that offered by the open source project. Security and bug-fix
 patches are backported to select versions of Singularity PRO, so that
 they can be deployed long-term where required. PRO users receive
 security fixes (without specific notification or detail) prior to
-public disclosure, as detailed in the `Sylabs Security Policy
-<https://sylabs.io/security-policy>`__.
+public disclosure, as detailed in the `Singularity Security Policy
+<https://singularity.hpcng.org/security-policy>`__.
 
 
 Singularity Runtime & User Privilege

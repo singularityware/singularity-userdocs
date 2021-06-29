@@ -1,17 +1,25 @@
-==========
-User Guide
-==========
+========================
+SingularityCE User Guide
+========================
 
 
-Welcome to the Singularity User Guide!
+Welcome to the SingularityCE User Guide!
 
-This guide aims to give an introduction to Singularity, brief
+This guide aims to give an introduction to SingularityCE, brief
 installation instructions, and cover topics relevant to users building
 and running containers.
 
 For a detailed guide to installation and configuration, please see the
+<<<<<<< HEAD
+<<<<<<< HEAD
 separate Admin Guide for this version of Singularity at
 `<https://singularity.hpcng.org/admin-docs/\{adminversion\}/>`__.
+=======
+=======
+>>>>>>> 8905b8668688f7bdcbfe9c21d724de0f4cdf8bb8
+separate Admin Guide for this version of SingularityCE at
+`<https://sylabs.io/guides/\{adminversion\}/admin-guide/>`__.
+>>>>>>> Naming Updates
 
               
 Getting Started & Background Information
